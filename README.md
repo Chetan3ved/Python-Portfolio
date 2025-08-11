@@ -12,7 +12,7 @@ Each project is designed to reflect **real‑world business problems** and inclu
 - **Objective:** Analyze Netflix’s content library to uncover trends in content type, genres, ratings, growth over time, and key contributors.
 - **Skills:** Data cleaning, feature engineering, exploratory analysis, visualization.
 - **Tech:** Python (`pandas`, `matplotlib`, `seaborn`)
-- **Notebook:**[Project Notebook](01-netflix_analysis_project/netflix_analysis.ipynb)
+- **Notebook:**[Project Notebook](01-netflix-analysis-project/netflix_analysis.ipynb)
 
 - **Highlights:**
   - Movies vs TV shows, titles added per year
